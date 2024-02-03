@@ -11,11 +11,6 @@ Project meetings are every other Sunday at 5 p.m. unless we say otherwise. Durin
 ## Timeline (Sundays)
 Project Meetings are every other non-break week starting **2/4** besides the presentation day
 
-### By Next Meeting (11/19)
-- Group Progress form (One per group): [Form](https://forms.gle/FhHuSAkB3UrN4WoK7)
-- Start making progress towards setting up the API calls for your project (if applicable)
-- Continue working on your projects frontend and backend
-
 
 | Date | Benchmark | Details | Slides |
 |:---:|:--------:|:------------:|:--------:|
