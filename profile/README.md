@@ -15,7 +15,7 @@ Project Meetings are every other non-break week starting **2/4** besides the pre
 | Date | Benchmark | Details | Slides |
 |:---:|:--------:|:------------:|:--------:|
 |9/24| Project Meeting | Projects Introduction and Overview | [Slides](https://docs.google.com/presentation/d/1o8j933UMRYajCHNd2jFR2NGmcU2Ob2v_K5UTcn6EkwU/edit#slide=id.g18bd64ff9fd_0_6)|
-|10/01| Project Registration Deadline | [Sign up]([https://forms.gle/SjSmhZEZ3N18EkeZ9](https://forms.gle/DS12xHmNRGEKznZY8)) | |
+|10/01| Project Registration Deadline | [Sign up](https://forms.gle/DS12xHmNRGEKznZY8) | |
 
 ### About the Timeline
 We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, the timeline is only a guideline, and feel free to work at your own pace!
