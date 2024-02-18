@@ -16,7 +16,7 @@ Project Meetings are every other non-break week starting **2/4** besides the pre
 |:---:|:--------:|:------------:|:--------:|
 |2/4| Project Meeting | Projects Introduction and Overview | [Slides](https://docs.google.com/presentation/d/1o8j933UMRYajCHNd2jFR2NGmcU2Ob2v_K5UTcn6EkwU/edit#slide=id.g18bd64ff9fd_0_6)|
 |2/11| Project Registration Deadline | [Sign up](https://forms.gle/DS12xHmNRGEKznZY8) | |
-|2/18| Project Meeting | Groups Decided | |
+|2/18| Project Meeting | Groups Decided | [Slides]([https://docs.google.com/presentation/d/13ihRn9Og0f068BZP-ly-FvjOFTp0IUmaUIAfhTJl5zo/edit#slide=id.g289051e1c07_0_155](https://docs.google.com/presentation/d/13ihRn9Og0f068BZP-ly-FvjOFTp0IUmaUIAfhTJl5zo/edit#slide=id.p)) |
 |3/3| Project Meeting | Complete Project Plan by today | |
 |3/17| Project Meeting | Make progress towards creating a frontend and/or backend | |
 |3/31| Project Meeting | Make progress towards setting up api calls between your front and backend | |
