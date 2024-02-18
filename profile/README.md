@@ -19,7 +19,7 @@ Project Meetings are every other non-break week starting **2/4** besides the pre
 |2/18| Project Meeting | Groups Decided | [Slides](https://docs.google.com/presentation/d/13ihRn9Og0f068BZP-ly-FvjOFTp0IUmaUIAfhTJl5zo/edit#slide=id.p) |
 |3/3| Project Meeting | Complete Project Plan by today | |
 |3/17| Project Meeting | Make progress towards creating a frontend and/or backend | |
-|3/31| Project Meeting | Make progress towards setting up api calls between your front and backend | |
+|3/31| Project Meeting | Make progress towards setting up API calls between your front and backend | |
 |4/14| Project Meeting | TBD | |
 |4/28| Final Project Meeting | Hopefully done with project, or close | |
 |TBD| Presentation! | Consider what a small demonstration would look like | |
